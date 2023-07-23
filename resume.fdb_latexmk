@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1690143030 "resume.xdv" "resume.pdf" "resume" 1690143030 0
-  "resume.xdv" 1690143030 98384 dbfd32712375108ed7004c461a5d88b9 "xelatex"
+["xdvipdfmx"] 1690150946 "resume.xdv" "resume.pdf" "resume" 1690150947 0
+  "resume.xdv" 1690150946 98648 eef98252f68814a4c8dce1d0d4455215 "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1690143028 "/Users/wael/personal-projects/resume/resume/resume.tex" "resume.xdv" "resume" 1690143030 0
+["xelatex"] 1690150944 "/Users/wael/personal-projects/resume/resume/resume.tex" "resume.xdv" "resume" 1690150947 0
   "/Users/wael/personal-projects/resume/resume/resume.tex" 1690033324 3745 7b2befcced972d0d766c4e247184e972 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -136,6 +136,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1675461949 4674 257c150d9d5c2fbc229303c8beaf6228 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1675461949 6812 3c152a1c8d562d7b7291c4839b61a5c3 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty" 1575499565 5766 13a9e8766c47f30327caf893ece86ac8 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/makecell/makecell.sty" 1249334690 15773 2dd7dde1ec1c2a3d0c85bc3b273e04d8 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/parskip/parskip.sty" 1615762720 4288 94714aa7f535440f33181fec52a31963 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty" 1601326656 1090 bae35ef70b3168089ef166db3e66f5b2 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty" 1673816307 373 00b204b1d7d095b892ad31a7494b0373 ""
@@ -161,6 +162,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex" 1658348483 11652 c1f609a3a467337aa394d0958d2ef72d ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty" 1667332637 12691 5b542990fe866f3d772f71346cf85b95 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/calc.sty" 1654720880 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty" 1654720880 12892 af5f5e872a6e322f3e5ba2c881288a56 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty" 1667332637 7392 f19cdc68ae9f1190dbd54eee6d29fb7c ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/trimspaces/trimspaces.sty" 1253232110 1380 971a51b00a14503ddf754cab24c3f209 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex" 1550269384 241265 52e61157376139e230f2a9ef4be9503f ""
@@ -173,14 +175,14 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1681798851 10502843 ad708c4da96047c001fe5a010a35128e ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "awesome-cv.cls" 1688671296 28882 4df5ad4ba593bb2311de3ff1e9af7e4c ""
+  "awesome-cv.cls" 1690150652 28925 25c3208820268a970da221351cf674f4 ""
   "pic.jpg" 1688926883 408295 39bf8509e8c5d096300f44074383bf3b ""
-  "resume.aux" 1690143030 464 80727c0da4e59171bc88899b3dda9d51 "xelatex"
+  "resume.aux" 1690150946 541 110dbc4ea785582d145cdc608d72faf7 "xelatex"
   "resume.tex" 1690033324 3745 7b2befcced972d0d766c4e247184e972 ""
   "resume/education.tex" 1689625408 958 2c7d6e1e33ffeeb5c13403457a126f4b ""
   "resume/experience.tex" 1689624786 7885 eae6ba533d43d1532232271fcf3316f7 ""
   "resume/honors.tex" 1690033174 712 0f894d23dd1dc419e89e13918b8354d7 ""
-  "resume/skills.tex" 1690143027 2425 cb4b3c81ebdfa2a5a65064109668e93c ""
+  "resume/skills.tex" 1690150944 2472 a8c599402dd6842bbf4b4acdfeb72071 ""
   "resume/summary.tex" 1688671773 1324 5a14fb5137bc141864eaa75fc9d3d5ef ""
   (generated)
   "resume.aux"
