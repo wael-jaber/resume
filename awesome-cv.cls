@@ -704,7 +704,7 @@
   \begin{center}
     \setlength\tabcolsep{1ex}
     \setlength{\extrarowheight}{0pt}
-    \begin{tabular*}{\textwidth}[t]{ l L{\textwidth * \real{0.8}}}
+    \begin{tabular*}{\textwidth}[t]{ l L{\textwidth * \real{0.65}}}
 }{%
     \end{tabular*}
   \end{center}
