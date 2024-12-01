@@ -21,8 +21,12 @@ jobs:
           name: resume
           path: resume.pdf
 
-      - name: Deploy to GitHub Pages
+      # Deploy the PDF to GitHub Pages
+      - name: Deploy PDF
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./resume.pdf
+          publish_dir: . # Root directory of your repository
+          destination_dir: '' # Leave empty to upload the file directly to the root of GitHub Pages
+          keep_files: false # Overwrite existing content in the branch
+
