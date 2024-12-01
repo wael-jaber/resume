@@ -26,3 +26,7 @@ resume.fdb_latexmk
 resume.synctex.gz
 
 resume.xdv
+
+## IDE
+
+.vscode

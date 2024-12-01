@@ -704,9 +704,9 @@
   \begin{center}
     \setlength\tabcolsep{1ex}
     \setlength{\extrarowheight}{0pt}
-    \begin{longtable}{@{}  r >{\RaggedRight}p{\textwidth * \real{0.7}} @{}}
+    \begin{tabular*}{\textwidth}[t]{ l L{\textwidth * \real{0.8}}}
 }{%
-    \end{longtable}
+    \end{tabular*}
   \end{center}
 }
 % Define a line of cv information(skill)
