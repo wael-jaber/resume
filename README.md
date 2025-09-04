@@ -1,10 +1,6 @@
 # About this repository
 
-This is my CV repository. The CV is written in LaTeX and the source code is available in this repository. The CV is available in the following languages:
-
-- [English](./resume.pdf)
-- [French](./resume-fr.pdf)
-- [German](./resume-de.pdf)
+This is my CV repository. The CV is written in LaTeX and the source code is available in this repository. 
 
 ## Roadmap
 
